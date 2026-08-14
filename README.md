@@ -1,5 +1,5 @@
-# Portafolio de proyectos personales.
+# Personal Projects Portfolio
 
 ## Profesional statement.
 
-Ingeniero Civil Informático con sólida base técnica en diseño de soluciones digitales, análisis de datos y fundamentos de seguridad de la información. Destaco por una mentalidad analítica, atención al detalle y capacidad de aprendizaje continuo para abordar desafíos en desarrollo, ciberseguridad o ciencia de datos. Guiado por una fuerte ética profesional, determinación y gestión eficiente del tiempo, busco integrarme a equipos dinámicos para proteger activos clave, optimizar procesos y generar valor tangible para la organización y sus usuarios.
+Computer Science Engineer with a solid technical foundation in digital solution design, data analysis, and information security fundamentals. Known for an analytical mindset, keen attention to detail, and a commitment to continuous learning to tackle challenges across software development, cybersecurity, or data science. Driven by strong professional ethics, determination, and effective time management, I aim to join dynamic teams to protect critical assets, optimize processes, and deliver tangible value to organizations and their users.
