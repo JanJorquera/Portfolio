@@ -15,8 +15,8 @@ Computer Science Engineer with a solid technical foundation in digital solution 
 | :--- | :--- |
 | **Languages** | Python, Go, C/C++, JavaScript, TypeScript, Bash, SQL |
 | **Security & Hardening** | SIEM fundamentals, Network Hardening, Firewalls, NIST/CIS Frameworks, Cryptography |
-| **Development & Architecture** | FastAPI, React, Node.js, REST APIs, Microservices |
-| **Cloud & DevOps** | Docker, Git/GitHub, Linux (Ubuntu/Debian), Firebase |
+| **Development & Architecture** | FastAPI, Tauri, Wails, React, Node.js, REST APIs, Microservices |
+| **Cloud & DevOps** | Docker, Git/GitHub, Linux (Ubuntu/Kali), Firebase |
 | **Data & Automation** | Power BI, Pandas, Python Automation Scripts |
 
 ---
