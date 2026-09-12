@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-success?style=flat)]()
 
 ## 📌 Professional Statement
-Computer Science Engineer with a solid technical foundation in digital solution design, data analysis, and information security fundamentals. Known for an analytical mindset, keen attention to detail, and a commitment to continuous learning to tackle challenges across software development, cybersecurity, or data science. Driven by strong professional ethics, determination, and effective time management, I aim to join dynamic teams to protect critical assets, optimize processes, and deliver tangible value to organizations and their users.
+Computer Civil Engineer with hands-on experience in cross-platform application development and corporate process administration, backed by a solid technical foundation in digital solution design, data analysis, and information security fundamentals. Stands out for an analytical mindset, attention to detail, and a continuous learning capacity to tackle challenges in software development, cybersecurity, and data science. Guided by strong professional ethics, determination, and efficient time management, seeks to join dynamic teams to protect key assets, optimize processes, and generate tangible value for the organization and its users.
 
 ---
 
